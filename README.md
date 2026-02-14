@@ -55,7 +55,7 @@ Usage:
  make remove-state: remove terraform state
  make plan: dry run terraform plan ( it will update lambda.zip file)
  make apply: deploy terraform changes and create/update resources
- make destroy: destroy all previosly created resources
+ make destroy: destroy all previously created resources
  ```
 
 ## design diagram
